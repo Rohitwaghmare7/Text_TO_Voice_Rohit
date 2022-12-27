@@ -1,16 +1,12 @@
-# stt
+The project "Text-to-Speech converter" was developed by me as a mini-project in our college. The basic aim is to 
+convert the given text into speech output. We have build a mobile application for converting text-to-speech as well 
+as speech-to-text.We have developed this application using Flutter. The functionalities of our application are:-
 
-A new Flutter project.
+- Converting text input to speech output. (TTS conversion)
+- Converting Speech input to text Output. (STT conversion)  
 
-## Getting Started
+For building the application, we have used libraries provided by flutter to perform the required conversion. Basics 
+of DART language is required to build this application.  
+		Also, as the application is developed using Flutter, It can be used of multiple platforms like android, 
+MACOS, web application as well as desktop application.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
